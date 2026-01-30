@@ -3,15 +3,15 @@
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ritik+Chourasiya!+👋;Java+Full+Stack+Developer+☕;Building+Microservices+with+Spring+Boot+🚀;Exploring+Spring+AI+🤖&font=Fira+Code&center=true&width=600&height=40&color=0055FF&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Sourabh Patel+👋;Java+Full+Stack+Developer+☕;Building+Microservices+with+Spring+Boot+🚀;Exploring+Spring+AI+🤖&font=Fira+Code&center=true&width=600&height=40&color=0055FF&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ritik-chourasiya" target="_blank">
+  <a href="http://linkedin.com/in/sourabh-patel-556048283" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="pawanpatel2936@gmail.com">
+  <a href="sourabhpatlya02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/">
@@ -69,19 +69,19 @@ I am a passionate **Software Engineer Trainee** at **InfoBeans Foundation** from
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik-2901&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourabh-2901&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github.com/Ritik-2901/Ritik-2901/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Sourabhpatel25/Sourabhpatel25/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <hr>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ritik-2901&label=Profile%20Views&color=0055FF&style=flat-square" alt="Ritik-2901" />
+  <img src="https://komarev.com/ghpvc/?username=Sourabhpatel25&label=Profile%20Views&color=0055FF&style=flat-square" alt="Sourabhpatel25" />
   <br>
   <sub><i>Let's connect and build something amazing together! 🚀</i></sub>
 </p>
